@@ -2,7 +2,7 @@
 
 Code for the analysis in:
 
-> Egbebiyi et al. (2026). *[Manuscript title]*. Submitted to [Journal name].
+> Egbebiyi et al. (2026). *Temperature stabilisation using Stratospheric Aerosol Injections minimises drying over Africa only when combined with a strong decarbonization effort*. Submitted to Nature Climate Change.
 
 This repository contains the Jupyter notebook used to compute climate indices, surface moisture budget, and statistical detectability for the African continent under SSP5-8.5, SSP5-3.4-OS, and stratospheric aerosol injection scenarios using CESM2-WACCM6 output.
 
@@ -49,6 +49,7 @@ If you use this code, please cite the manuscript above and this repository via i
 
 ## Contact
 
-Temitope Egbebiyi  
+Temitope Egbebiyi  | Temitope Fafure
 African Climate and Development Initiative, University of Cape Town  
 temitope.egbebiyi@uct.ac.za
+ffrtem001@myuct.ac.za
