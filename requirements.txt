@@ -1,0 +1,9 @@
+xarray>=2023.1
+numpy>=1.24
+pandas>=2.0
+scipy>=1.10
+matplotlib>=3.7
+cartopy>=0.21
+shapely>=2.0
+xclim>=0.45
+netCDF4>=1.6

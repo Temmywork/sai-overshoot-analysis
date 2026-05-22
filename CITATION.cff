@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite both the manuscript and this repository."
+title: "SAI Overshoot Analysis: Code for climate indices and surface moisture budget"
+authors:
+  - family-names: "Egbebiyi"
+    given-names: "Temitope S."
+    affiliation: "African Climate and Development Initiative, University of Cape Town"
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+version: "1.0.0"
+date-released: "2026-05-22"
+license: "MIT"
+repository-code: "https://github.com/YOUR-USERNAME/sai-overshoot-analysis"
