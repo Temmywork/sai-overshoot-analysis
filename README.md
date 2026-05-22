@@ -51,4 +51,4 @@ If you use this code, please cite the manuscript above and this repository via i
 
 Temitope Egbebiyi  
 African Climate and Development Initiative, University of Cape Town  
-ffrtem001@myuct.ac.za
+temitope.egbebiyi@uct.ac.za
